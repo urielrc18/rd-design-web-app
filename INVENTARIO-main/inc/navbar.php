@@ -2,12 +2,15 @@
     .navbar-link{
         color: whitesmoke;
     }
+    .navbar-dropdown{
+        display:none;
+    }
 </style>
 <nav class="navbar" role="navigation" aria-label="main navigation" style="background-color: #ED5A5A;">
 
     <div class="navbar-brand">
         <a class="navbar-item" href="index.php?vista=home">
-        <img src="./img/LOGO.png" width="65" height="28">
+        <img src="./img/LOGOSOLO.png" width="65" height="28">
         </a>
 
         <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
